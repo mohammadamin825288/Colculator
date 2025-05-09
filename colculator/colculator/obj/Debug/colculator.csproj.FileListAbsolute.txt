@@ -1,0 +1,10 @@
+C:\Users\azaza\Desktop\colculator\colculator\bin\Debug\colculator.exe.config
+C:\Users\azaza\Desktop\colculator\colculator\bin\Debug\colculator.exe
+C:\Users\azaza\Desktop\colculator\colculator\bin\Debug\colculator.pdb
+C:\Users\azaza\Desktop\colculator\colculator\obj\Debug\colculator.csprojAssemblyReference.cache
+C:\Users\azaza\Desktop\colculator\colculator\obj\Debug\colculator.Form1.resources
+C:\Users\azaza\Desktop\colculator\colculator\obj\Debug\colculator.Properties.Resources.resources
+C:\Users\azaza\Desktop\colculator\colculator\obj\Debug\colculator.csproj.GenerateResource.cache
+C:\Users\azaza\Desktop\colculator\colculator\obj\Debug\colculator.csproj.CoreCompileInputs.cache
+C:\Users\azaza\Desktop\colculator\colculator\obj\Debug\colculator.exe
+C:\Users\azaza\Desktop\colculator\colculator\obj\Debug\colculator.pdb
